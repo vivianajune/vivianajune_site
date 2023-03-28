@@ -1,0 +1,10 @@
+# Font style metadata
+name = "My font set"
+# Optional Google font URL
+google_fonts = "family=Raleway:ital,wght@0,400;0,700;1,400;1,700"
+# Font families
+heading_font = "Raleway"
+body_font = "Raleway"
+nav_font = "Raleway"
+mono_font = "Raleway"
+
