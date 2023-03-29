@@ -71,5 +71,5 @@ email: ''
 highlight_name: true
 ---
 
-Viviana June is a molecular biologist who recently finished her PhD in Cell and Molecular Biology at UT Austin. She is passionate about using omics-based approaches to study plant growth and development, and her dissertation focused on investigating the genetic changes that cause hybrid vigor in plants. 
+I am a molecular biologist that recently finished my PhD in Cell and Molecular Biology at UT Austin, where I used big-data approaches to biology to better understand how genes interact and contribute to an organism's growth. During my degree, I developed strong data analysis skills through processing, analyzing and drawing conclusions from next-generation sequencing data. I'm passionate about applying my data analysis skills towards new problems and investigating the roles of genes in development and disease. 
 {style="text-align: justify;"}
