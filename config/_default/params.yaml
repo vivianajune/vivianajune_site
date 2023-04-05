@@ -18,10 +18,10 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    description: 'Viviana Junes personal website.'
     twitter: 'wowchemy'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-9VTWQPQZZW'
     baidu_tongji: ''
   verification:
     google: ''
